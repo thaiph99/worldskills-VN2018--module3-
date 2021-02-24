@@ -1,0 +1,42 @@
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\bin\Debug\session3App1.exe.config
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\bin\Debug\session3App1.exe
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\bin\Debug\session3App1.pdb
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\Window1.g.cs
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1_MarkupCompile.cache
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1_MarkupCompile.lref
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\Window1.baml
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1.g.resources
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1.Properties.Resources.resources
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1.exe
+C:\Users\Admin\source\repos\GPPM_CNTT\session3App1\obj\Debug\session3App1.pdb
+E:\Window form\GPPM_CNTT\session3App1\bin\Debug\session3App1.exe.config
+E:\Window form\GPPM_CNTT\session3App1\bin\Debug\session3App1.exe
+E:\Window form\GPPM_CNTT\session3App1\bin\Debug\session3App1.pdb
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.csprojAssemblyReference.cache
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\MainWindow.g.cs
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\App.g.cs
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1_MarkupCompile.cache
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1_MarkupCompile.lref
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\MainWindow.baml
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.g.resources
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.Properties.Resources.resources
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.csproj.GenerateResource.cache
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.csproj.CoreCompileInputs.cache
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.exe
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.pdb
+E:\Window form\GPPM_CNTT\session3App1\bin\Debug\EntityFramework.dll
+E:\Window form\GPPM_CNTT\session3App1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Window form\GPPM_CNTT\session3App1\bin\Debug\EntityFramework.xml
+E:\Window form\GPPM_CNTT\session3App1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1_Content.g.cs
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\session3App1.csproj.CopyComplete
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\Window1.g.cs
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\Window1.baml
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\Window2.g.cs
+E:\Window form\GPPM_CNTT\session3App1\obj\Debug\Window2.baml
